@@ -15,9 +15,9 @@
 
 ---
 
-![j2vi logo](./logo/web3_cover.webp)
+![vitaly92a logo](./logo/web3_cover.webp)
 
 <!---
-j2vi/j2vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vitaly92a/vitaly92a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
