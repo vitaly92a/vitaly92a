@@ -11,7 +11,7 @@
 > 1. Action is the best weapon against depression!
 > 2. The pain costs dear. But freedom even more dearest!
 > 3. Your dreams must be stronger your fears!
->    [... and [other quotes](./quotes/base-30.md) (RU)]
+>    [... and [other quotes](./quotes/base-quotes.md) (RU)]
 
 ---
 
